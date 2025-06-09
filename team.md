@@ -1,6 +1,6 @@
 # Kalyana
 
-I'm from India, pursuing Bachelors in Computer Science at NAU.
+I'm a CS student.
 
 # Ashrith
 I'm from India too, pursuing Bachelors in Computer Science.
